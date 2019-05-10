@@ -28,3 +28,7 @@ if(media>=5.0 and media<=6.9):
 	if(media>= 5.0):
 		print("Aluno aprovado.")
 		print("Media final: %.1f" % media)
+
+
+
+
